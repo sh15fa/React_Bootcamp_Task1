@@ -1,0 +1,14 @@
+h1{
+    font-size: 3rem;
+    margin: 0px;
+    color: white;
+    padding-top:8vh ;
+}
+.nav{
+    background-color:rgb(28, 156, 199) ;
+    height: 25vh;
+    text-align: center;
+    position: sticky;
+    z-index: 1;
+    top: 0;
+}
